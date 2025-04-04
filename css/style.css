@@ -1,11 +1,11 @@
 /* Estilos Gerais */
 :root {
-    --primary-color: #2e7d32; /* Verde escuro para transmitir seriedade e confiança */
+    primary-color: #2e7d32; /* Verde escuro para transmitir seriedade e confiança */
     --secondary-color: #4caf50; /* Verde mais claro para elementos secundários */
     --accent-color: #1b5e20; /* Verde mais escuro para acentos */
     --text-color: #333; /* Cor de texto escura para boa legibilidade */
-    --light-text: #0a0a0a; /* Texto claro para fundos escuros */
-    --light-bg: #668546; /* Fundo claro para seções alternadas */
+    --light-text: #fff; /* Texto claro para fundos escuros */
+    --light-bg: #f5f5f5; /* Fundo claro para seções alternadas */
     --dark-bg: #263238; /* Fundo escuro para contraste */
     --shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra sutil para elementos */
     --transition: all 0.3s ease; /* Transição suave para interações */
